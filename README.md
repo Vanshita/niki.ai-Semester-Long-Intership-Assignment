@@ -29,3 +29,14 @@ For the values of length of string, the output varied as
 	... and so on
 	The pattern follows a recursive series f(n) = f(n-1)+f(n-2) ( Fibonacci series).
   Hence using the recursive series, we can implement the solution.
+
+STEPS TO EXECUTE THE CODE -
+
+1) Download/Clone the code.
+2) Open the BitString1.java file.
+3) Open the terminal to run the .java file.
+4) Type the command "javac BitString1.java".
+5) Type the command "java TestProgram"
+6) Input the no of test cases.
+7) Input the length of string("n").
+8) The output will be displayed on the terminal screen.
